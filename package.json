@@ -1,0 +1,15 @@
+{
+  "name": "videoplatformbackend",
+  "version": "1.0.0",
+  "description": "A Backend Project for Video Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Video",
+    "Backend"
+  ],
+  "author": "Muhammad Awais",
+  "license": "ISC"
+}
